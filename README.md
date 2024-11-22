@@ -1,4 +1,9 @@
 ## Public profile for Phillip Grambo, Applications Engineer, Universal Robots
+https://www.universal-robots.com/
+
+### Previous works:
+https://www.universal-robots.com/articles/ur/programming/script-library-tutorial/
+https://www.universal-robots.com/articles/ur/other/so-you-want-to-be-a-power-user/
 
 <!--
 **phillipgramboUR/phillipgramboUR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
