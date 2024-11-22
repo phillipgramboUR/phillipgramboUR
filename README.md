@@ -2,7 +2,7 @@
 https://www.universal-robots.com/ <br>
 https://www.linkedin.com/in/phillip-grambo-3b4961171/ <br>
 
-### Previous work and articles: <br>
+### Previous work and articles: 
 https://www.universal-robots.com/articles/ur/programming/script-library-tutorial/ <br>
 https://www.universal-robots.com/articles/ur/other/so-you-want-to-be-a-power-user/
 
