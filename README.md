@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Public profile for Phillip Grambo, Applications Engineer, Universal Robots
+
 <!--
 **phillipgramboUR/phillipgramboUR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
