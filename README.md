@@ -1,8 +1,9 @@
 ## Public profile for Phillip Grambo, Applications Engineer, Universal Robots
-https://www.universal-robots.com/
+https://www.universal-robots.com/ <br>
+https://www.linkedin.com/in/phillip-grambo-3b4961171/ <br>
 
-### Previous works:
-https://www.universal-robots.com/articles/ur/programming/script-library-tutorial/
+### Previous works: <br>
+https://www.universal-robots.com/articles/ur/programming/script-library-tutorial/ <br>
 https://www.universal-robots.com/articles/ur/other/so-you-want-to-be-a-power-user/
 
 <!--
